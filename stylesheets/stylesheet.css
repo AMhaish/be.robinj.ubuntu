@@ -245,3 +245,11 @@ a {
 .cf {
   zoom:1;
 }
+
+/*
+  Custom
+*/
+section#downloads
+{
+  text-align: right;
+}
